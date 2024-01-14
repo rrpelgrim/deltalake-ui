@@ -1,0 +1,6 @@
+# dagster_cloud.yaml
+
+locations:
+  - location_name: taxi_location # the name of the code location
+    code_source:
+      package_name: taxi # the name of the python package associated with the code location
